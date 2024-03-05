@@ -1,0 +1,30 @@
+h1{
+   color: black;
+}
+h2{
+	color: aqua;
+}
+.am1{
+	height: 400px;
+	width: 400px;
+	background-color: rgb;
+	text-align: center;
+	float: left;
+}
+.am2{
+	height: 400px;
+	float: left;
+	width: 400px;
+	background-color: rgb;
+	text-align: center;
+	margin-left: 40px;
+}
+
+.am3{
+     height: 400px;
+     float: left;
+     width: 400px;
+     background-color: blueviolet;
+     text-align: center;
+     margin-left: 40px;
+}
